@@ -9,6 +9,6 @@ Small 3D Models and Projects
 2. _magsafe adapter keychain_
 3. _star ball in cage_
 	1. _ball_: simple small sphere to fit in star ball-in-cage
-	2. _ball_hole_: sphere with intersecting diametric holes passing through it
+	2. _ball hole_: sphere with intersecting diametric holes passing through it
 	3. _pyramid frame element_: pyramid-end frame stile
 	4. _star-bic_: the main frame assembly
