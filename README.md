@@ -4,10 +4,10 @@ Small 3D Models and Projects
 
 ---
 
-1. _**ball-in-cage.stl**_
+1. _ball-in-cage_
 	- First print ever: simple ball trapped in a cage
-2. _**magsafe-adapter_keychain**_
-3. _**star_ball-in-cage**_
+2. _magsafe adapter keychain_
+3. _star ball in cage_
 	1. _ball_: simple small sphere to fit in star ball-in-cage
 	2. _ball_hole_: sphere with intersecting diametric holes passing through it
 	3. _pyr_fram_elem_: pyramid-end frame stile
