@@ -12,3 +12,6 @@ Small 3D Models and Projects
 	2. _ball hole_: sphere with intersecting diametric holes passing through it
 	3. _pyramid frame element_: pyramid-end frame stile
 	4. _star-bic_: the main frame assembly
+4. _modular rocket_
+5. _mini-rocket_
+6. _concrete mug_
